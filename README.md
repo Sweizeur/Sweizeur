@@ -1,9 +1,6 @@
 ### <div align="center">I'm Sweizeur, I learning cybersécurity</div>  
   
 
-🐍 I work on my web site [Sweizeur.fr](http://Sweizeur.fr)  
-  
-
 <br/>  
 
 
