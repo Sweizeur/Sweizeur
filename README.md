@@ -1,4 +1,4 @@
-## I'm Sweizeur, I learning cybersécurity !  
+## I'm Sweizeur, I learning cybersecurity !  
   
 
 <a href="https://github.com/sweizeur" target="_blank">
