@@ -1,4 +1,4 @@
-## Hi, I'm Sweizeur — learning cybersecurity!
+## Hi, I'm Sweizeur, learning cybersecurity!
 
 <a href="https://github.com/sweizeur" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
