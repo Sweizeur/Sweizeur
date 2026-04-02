@@ -1,4 +1,4 @@
-## Hi, I'm Sweizeur, learning cybersecurity!
+## Hi, I'm Sweizeur and I'm learning cybersecurity!
 
 <a href="https://github.com/sweizeur" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
@@ -10,7 +10,7 @@ I'm a passionate backend developer with a strong interest in cybersecurity and f
 
 I enjoy building lightweight yet powerful systems, with a focus on database design, server optimization, and cybersecurity challenges. With solid skills in Python, JavaScript, and other core technologies, I’m always looking for innovative solutions that are both efficient and secure.
 
-Beyond client work, I also work on personal projects to continuously improve my technical skills in cybersecurity, gaming, and project management. You can explore my projects on GitHub — and soon on my portfolio.
+Beyond my client work, I also work on personal projects to continuously improve my technical skills in cybersecurity, gaming, and project management. You can explore my projects on GitHub and soon on my portfolio.
 
 <br/>
 
